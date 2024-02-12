@@ -1,0 +1,23 @@
+main {
+    min-height: 70vh;
+}
+
+nav {
+    min-height: 10vh;
+}
+
+/* .unavailable{
+    opacity: 0.5;
+} */
+
+.card{
+    position: absolute;
+}
+
+.badge{
+    position: relative;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    padding: 0.5rem;
+}
